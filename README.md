@@ -1,7 +1,7 @@
 - 👋 Hello world, I’m @Keerthana20-04
 - 👀 I’m interested in working on coding projects
 - 🌱 I’m currently learning **Computer Science and Engineering**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development in C/Java
 - 📫 How to reach me ...
 
 <!---
