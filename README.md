@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keerthana20-04
 - 👀 I’m interested in working on coding projects
-- 🌱 I’m currently learning Computer Science and Engineering
+- 🌱 I’m currently learning **Computer Science and Engineering**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
